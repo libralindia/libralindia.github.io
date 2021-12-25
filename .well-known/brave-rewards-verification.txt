@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: libralindia.github.io
+Token: 07a51dc6f2f552d6fe75bb92b96461a79786b24f33d51e089ec2b165ddf9bb40
